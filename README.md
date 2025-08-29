@@ -51,10 +51,10 @@ npm run dev
 
 ## 📷 App Preview
 
-![Sign UP Preview](public/README-Preview/signup.png)
-![Login Preview](public/README-Preview/login.png)
-![Forgot Password Preview](public/README-Preview/forgot-password.png)
-![Dashboard Preview](public/README-Preview/dashboard.png)
-![Profile Preview](public/README-Preview/profile.png)
+![Sign UP Preview](public/assets/README-Preview/signup.png)
+![Login Preview](public/assets/README-Preview/login.png)
+![Forgot Password Preview](public/assets/README-Preview/forgot-password.png)
+![Dashboard Preview](public/assets/README-Preview/dashboard.png)
+![Profile Preview](public/assets/README-Preview/profile.png)
 
 ---
