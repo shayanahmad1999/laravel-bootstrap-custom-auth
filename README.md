@@ -46,3 +46,15 @@ php artisan serve
 npm run dev
 
 ```
+
+---
+
+## 📷 App Preview
+
+![Sign UP Preview](public/README-Preview/signup.png)
+![Login Preview](public/README-Preview/login.png)
+![Forgot Password Preview](public/README-Preview/forgot-password.png)
+![Dashboard Preview](public/README-Preview/dashboard.png)
+![Profile Preview](public/README-Preview/profile.png)
+
+---
