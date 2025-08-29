@@ -265,7 +265,7 @@ document.addEventListener('DOMContentLoaded', () => {
     logoutForm.addEventListener('submit', async (e) => {
       e.preventDefault();
       try {
-        const res = await fetch('/ajax/logout', { method: 'POST', headers: { 'X-CSRF-TOKEN': csrfToken(), 'Accept': 'application/json' } });
+        const res = await fetch('/logout', { method: 'POST', headers: { 'X-CSRF-TOKEN': csrfToken(), 'Accept': 'application/json' } });
         if (res.ok) { 
           showToast('success', 'Logged out.'); 
           setTimeout(() => window.location.href = '/login', 500); 
